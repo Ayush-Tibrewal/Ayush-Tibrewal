@@ -48,6 +48,7 @@ Prior to that, I was an **R&D Intern at Samsung Innovation Lab**, where I contri
   <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 </p>
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-Tibrewal/Ayush-Tibrewal/output/pacman-contribution-graph-dark.svg">
