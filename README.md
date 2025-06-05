@@ -4,10 +4,6 @@
 
 An undergraduate at **Delhi Technological University**, currently pursuing a B.Tech in **Engineering Physics**. I have a strong passion for **full-stack development**, **artificial intelligence**, and **machine learning**.
 
-Previously, I worked at **Tech Mahindra** as a **Software Developer Intern**, where I primarily focused on backend development and built a multi-agent system to identify network issues.
-
-Prior to that, I was an **R&D Intern at Samsung Innovation Lab**, where I contributed to classifying stress levels using raw EEG brain signal data.
-
 ---
 
 - 🌐 [Portfolio](https://www.ayushtib.in)  
