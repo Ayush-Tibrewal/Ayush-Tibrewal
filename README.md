@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ayush Tibrewal</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# 👋 About Me
+
+Hi, I'm **Ayush Tibrewal**, an undergraduate at **Delhi Technological University**, currently pursuing a B.Tech in **Engineering Physics** with a deep interest in **AI, machine learning**, and **full-stack development**.
+
+I enjoy building intelligent systems and bringing ideas to life — whether it's developing deep learning models for stress detection, crafting responsive web apps, or automating workflows. My projects reflect a balance between clean engineering and impactful problem-solving.
+
+Outside the screen, I’m curious about **astrophysics**, passionate about **music**, a fan of **mixed martial arts** and **Formula 1**, and love watching documentaries that explore the unknown.
+
+- 🌐 [Portfolio](https://www.ayushtib.in)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayush-tibrewal-665949248/)
+- 📬 [Gmail](mailto:ayushtibrewal2004@gmail.com)<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
