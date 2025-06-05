@@ -2,15 +2,18 @@
 
 ## 👋 About Me
 
-Hi, I'm **Ayush Tibrewal**, an undergraduate at **Delhi Technological University**, currently pursuing a B.Tech in **Engineering Physics** with a deep interest in **AI, machine learning**, and **full-stack development**.
+Hi, I'm **Ayush Tibrewal**, an undergraduate at **Delhi Technological University**, currently pursuing a B.Tech in **Engineering Physics**. I have a strong passion for **full-stack development**, **artificial intelligence**, and **machine learning**.
 
-I enjoy building intelligent systems and bringing ideas to life — whether it's developing deep learning models for stress detection, crafting responsive web apps, or automating workflows. My projects reflect a balance between clean engineering and impactful problem-solving.
+Previously, I worked at **Tech Mahindra** as a **Software Developer Intern**, where I primarily focused on backend development and built a multi-agent system to identify network issues.
 
-Outside the screen, I’m curious about **astrophysics**, passionate about **music**, a fan of **mixed martial arts** and **Formula 1**, and love watching documentaries that explore the unknown.
+Prior to that, I was an **R&D Intern at Samsung Innovation Lab**, where I contributed to classifying stress levels using raw EEG brain signal data.
 
-- 🌐 [Portfolio](https://www.ayushtib.in)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayush-tibrewal-665949248/)
-- 📬 [Gmail](mailto:ayushtibrewal2004@gmail.com)
+---
+
+- 🌐 [Portfolio](https://www.ayushtib.in)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayush-tibrewal-665949248/)  
+- 📬 [Email](mailto:ayushtibrewal2004@gmail.com)
+
 
 ---
 
