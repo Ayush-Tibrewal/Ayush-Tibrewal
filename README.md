@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayush Tibrewal</h1>
 
-## 👋 About Me
+## About Me
 
-Hi, I'm **Ayush Tibrewal**, an undergraduate at **Delhi Technological University**, currently pursuing a B.Tech in **Engineering Physics**. I have a strong passion for **full-stack development**, **artificial intelligence**, and **machine learning**.
+An undergraduate at **Delhi Technological University**, currently pursuing a B.Tech in **Engineering Physics**. I have a strong passion for **full-stack development**, **artificial intelligence**, and **machine learning**.
 
 Previously, I worked at **Tech Mahindra** as a **Software Developer Intern**, where I primarily focused on backend development and built a multi-agent system to identify network issues.
 
